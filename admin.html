@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Admin · Inscripciones FotoFest</title>
+  <link rel="stylesheet" href="css/admin.css"/>
+</head>
+<body>
+  <main class="wrap">
+    <header class="top">
+      <h1>Panel de Inscripciones</h1>
+      <button id="refreshBtn" type="button">Actualizar</button>
+    </header>
+    <section class="guide">
+      <h2>Campos visibles en cada inscripción</h2>
+      <p>Nombre, correo, país, teléfono, título, categoría, número de imágenes, texto curatorial, enlaces de portafolio, comprobante, fotos, estado de Drive y estado de aprobación.</p>
+    </section>
+    <p class="hint">Al recibir la inscripción se envía correo de confirmación. Al pasar a <strong>aprobado</strong> se envía correo de aprobación automáticamente.</p>
+    <div id="alert" class="alert"></div>
+    <div id="list" class="list"></div>
+  </main>
+
+  <script src="js/admin.js"></script>
+</body>
+</html>

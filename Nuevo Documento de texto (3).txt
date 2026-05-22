@@ -1,0 +1,67 @@
+
+
+<!-- ═══ LA IMAGEN ES EL PUENTE ══════════════════════════════════════════════ -->
+ <section id="puente"><div class="W">
+  <p class="ew r" data-n="06">Galería Histórica</p>
+  <div class="sec-title r">
+    <span class="t-big">LA IMAGEN</span>
+    <span class="t-big">ES EL PUENTE</span>
+    <span class="t-serif">destacados ediciones anteriores</span>
+  </div>
+  <p class="puente-desc r">Esta sección destaca imágenes participantes de las versiones anteriores del festival, conectando historias y territorios a través del tiempo.</p>
+
+  <div class="puente-carousel-wrap r">
+    <div class="puente-carousel" id="puenteCarousel">
+      <div class="puente-item"><img src="assets/fotos destacadas/Group 727.png 2.png" alt="Imagen anterior 1" loading="lazy"/></div>
+      <div class="puente-item"><img src="assets/fotos destacadas/Group 726.png" alt="Imagen anterior 2" loading="lazy"/></div>
+      <div class="puente-item"><img src="assets/fotos destacadas/Group 725.png" alt="Imagen anterior 3" loading="lazy"/></div>
+      <div class="puente-item"><img src="assets/fotos destacadas/Group 724.png" alt="Imagen anterior 4" loading="lazy"/></div>
+      <div class="puente-item"><img src="assets/fotos destacadas/Group 723.png" alt="Imagen anterior 5" loading="lazy"/></div>
+      <div class="puente-item"><img src="assets/fotos destacadas/Group 722.png" alt="Imagen anterior 6" loading="lazy"/></div>
+      <div class="puente-item"><img src="assets/fotos destacadas/Group 721.png" alt="Imagen anterior 7" loading="lazy"/></div>
+      <div class="puente-item"><img src="assets/fotos destacadas/Group 720.png" alt="Imagen anterior 8" loading="lazy"/></div>
+      <div class="puente-item"><img src="assets/fotos destacadas/Group 719.png" alt="Imagen anterior 9" loading="lazy"/></div>
+      <div class="puente-item"><img src="assets/fotos destacadas/Group 718.png" alt="Imagen anterior 10" loading="lazy"/></div>
+      <div class="puente-item"><img src="assets/fotos destacadas/Group 717.png" alt="Imagen anterior 11" loading="lazy"/></div>
+      <div class="puente-item"><img src="assets/fotos destacadas/Group 716.png" alt="Imagen anterior 12" loading="lazy"/></div>
+      <div class="puente-item"><img src="assets/fotos destacadas/Group 715.png" alt="Imagen anterior 13" loading="lazy"/></div>
+      <div class="puente-item"><img src="assets/fotos destacadas/Group 714.png" alt="Imagen anterior 14" loading="lazy"/></div>
+      <div class="puente-item"><img src="assets/fotos destacadas/Group 713.png" alt="Imagen anterior 15" loading="lazy"/></div>
+      <div class="puente-item"><img src="assets/fotos destacadas/Group 712.png" alt="Imagen anterior 16" loading="lazy"/></div>
+      <div class="puente-item"><img src="assets/fotos destacadas/Group 711.png" alt="Imagen anterior 16" loading="lazy"/></div>
+      <div class="puente-item"><img src="assets/fotos destacadas/Group 710.png" alt="Imagen anterior 16" loading="lazy"/></div>
+    </div>
+    <div class="puente-nav">
+      <button class="puente-btn prev" id="puentePrev">←</button>
+      <button class="puente-btn next" id="puenteNext">→</button>
+    </div>
+  </div>
+</div></section>
+
+
+
+
+
+
+
+ <div class="ppanel on" id="tab-exp">
+    <div class="pr"><div class="pr-t">23 Oct</div><div><div class="pr-nm">Ríos vivos — Fotografías desde el Putumayo</div><div class="pr-ds">Exposición inaugural. Obras seleccionadas por convocatoria que dialogan con las cuencas hidrográficas del Putumayo y su memoria comunitaria.</div></div><div class="pr-v">Plaza Central<br>Mocoa — 10:00</div></div>
+    <div class="pr"><div class="pr-t">24 Oct</div><div><div class="pr-nm">El agua que recuerda</div><div class="pr-ds">Muestra fotográfica itinerante con imágenes de comunidades ribereñas del sur de Colombia. Artista invitado internacional.</div></div><div class="pr-v">Centro Cultural<br>Manizales — 11:00</div></div>
+    <div class="pr"><div class="pr-t">25 Oct</div><div><div class="pr-nm">Fronteras húmedas</div><div class="pr-ds">Exposición en espacio público sobre ríos como fronteras políticas y culturales. Instalación fotográfica monumental.</div></div><div class="pr-v">Paseo Bolívar<br>Manizales — 09:00</div></div>
+    <div class="pr"><div class="pr-t">27 Oct</div><div><div class="pr-nm">Amazonía urgente</div><div class="pr-ds">Muestra de fotoperiodismo documental sobre la crisis ambiental en la cuenca amazónica. Colectivo latinoamericano invitado.</div></div><div class="pr-v">Museo de Arte<br>Manizales — 10:00</div></div>
+  </div>
+  <div class="ppanel" id="tab-tal">
+    <div class="pr"><div class="pr-t">23 Oct</div><div><div class="pr-nm">Fotografía de río: técnica y narrativa</div><div class="pr-ds">Taller de campo en orilla del río Putumayo. Fotografía en entornos acuáticos, iluminación natural y composición en paisaje fluvial. Cupo: 15 personas.</div></div><div class="pr-v">Mocoa<br>07:00 — 8h</div></div>
+    <div class="pr"><div class="pr-t">25 Oct</div><div><div class="pr-nm">Archivo y memoria</div><div class="pr-ds">Laboratorio de edición fotográfica y construcción de ensayos visuales con énfasis en archivos comunitarios y fotografía histórica.</div></div><div class="pr-v">Manizales<br>09:00 — 6h</div></div>
+    <div class="pr"><div class="pr-t">26 Oct</div><div><div class="pr-nm">Fotografía participativa</div><div class="pr-ds">Proceso de fotografía colaborativa con comunidades ribereñas. Metodología de co-creación de imágenes y narrativa territorial.</div></div><div class="pr-v">El Remanso<br>Putumayo — 08:00</div></div>
+  </div>
+  <div class="ppanel" id="tab-conf">
+    <div class="pr"><div class="pr-t">23 Oct</div><div><div class="pr-nm">Apertura — La fotografía como acto político</div><div class="pr-ds">Conferencia magistral de apertura. Curador invitado internacional sobre la imagen documental frente a la crisis climática y la violencia territorial.</div></div><div class="pr-v">Teatro Municipal<br>Mocoa — 19:00</div></div>
+    <div class="pr"><div class="pr-t">24 Oct</div><div><div class="pr-nm">Ríos, derechos y representación visual</div><div class="pr-ds">Conversatorio con líderes ambientales, fotógrafos y juristas sobre la representación de los ríos como sujetos de derecho.</div></div><div class="pr-v">Centro Cultural<br>Manizales — 17:00</div></div>
+    <div class="pr"><div class="pr-t">27 Oct</div><div><div class="pr-nm">Festivales de fotografía en América Latina</div><div class="pr-ds">Panel con directores de festivales IPFA member de la región. Tendencias, desafíos y redes internacionales de fotografía.</div></div><div class="pr-v">Univ. de Caldas<br>Manizales — 10:00</div></div>
+  </div>
+  <div class="ppanel" id="tab-rec">
+    <div class="pr"><div class="pr-t">24 Oct</div><div><div class="pr-nm">Recorrido por el río Putumayo</div><div class="pr-ds">Salida fotográfica en lancha. Visita a comunidades indígenas y registro de biodiversidad acuática. Cupo: 12 personas.</div></div><div class="pr-v">Mocoa<br>06:00 — Todo el día</div></div>
+    <div class="pr"><div class="pr-t">26 Oct</div><div><div class="pr-nm">Cañón del Cauca</div><div class="pr-ds">Recorrido fotográfico por el cañón del río Cauca. Paisaje, comunidades y vestigios culturales prehispánicos a lo largo del corredor hídrico.</div></div><div class="pr-v">Caldas, Antioquia<br>07:00 — 8h</div></div>
+    <div class="pr"><div class="pr-t">29 Oct</div><div><div class="pr-nm">Cierre — Ruta de exposiciones</div><div class="pr-ds">Tour guiado por todas las sedes del festival. Comentarios curatoriales, encuentro con artistas y clausura oficial del festival.</div></div><div class="pr-v">Varias sedes<br>Manizales — 10:00</div></div>
+  </div>
